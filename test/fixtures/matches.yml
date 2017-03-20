@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vg_id: 
+  date: 
+  duration: 1
+  mode: MyText
+  end_reason: MyText
+
+two:
+  vg_id: 
+  date: 
+  duration: 1
+  mode: MyText
+  end_reason: MyText

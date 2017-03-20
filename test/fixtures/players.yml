@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vg_id: 
+  name: MyText
+  level: 1
+  wins: 1
+
+two:
+  vg_id: 
+  name: MyText
+  level: 1
+  wins: 1

@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vg_id: 
+  match_id: 
+  winner: 
+  left_side: 
+  aces: 
+  gold: 
+  hero_kills: 1
+  krakens: 1
+  turret_kills: 
+  turrets_remaining: MyString
+  integer: MyString
+
+two:
+  vg_id: 
+  match_id: 
+  winner: 
+  left_side: 
+  aces: 
+  gold: 
+  hero_kills: 1
+  krakens: 1
+  turret_kills: 
+  turrets_remaining: MyString
+  integer: MyString
