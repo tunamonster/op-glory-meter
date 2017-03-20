@@ -1,0 +1,2 @@
+class ItemPlayerTeamMapping < ApplicationRecord
+end

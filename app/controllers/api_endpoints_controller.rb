@@ -8,7 +8,6 @@ class ApiEndpointsController < ApplicationController
 	end
 
 	def sample_post
-		input = params
 		response = "you sent "+params
 		respond_to do |format|
 			format.html

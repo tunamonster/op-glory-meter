@@ -1,0 +1,2 @@
+class PlayerTeamMapping < ApplicationRecord
+end
